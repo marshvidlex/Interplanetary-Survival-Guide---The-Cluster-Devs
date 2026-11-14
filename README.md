@@ -8,10 +8,10 @@ Reto: [Interplanetary Survival Guide: Martian Map](https://www.spaceappschalleng
 
 | Fase | Carpeta | Estado |
 | --- | --- | --- |
-| 1. Requerimientos | `docs/01-requerimientos` | Pendiente |
-| 2. Historias de usuario | `docs/02-historias-de-usuario` | Pendiente |
-| 3. Diseño de interfaces | `docs/03-diseno-de-interfaces` | Pendiente |
-| 4. Arquitectura | `docs/04-arquitectura` | Pendiente |
+| 1. Requerimientos | `docs/01-requerimientos` | Listo |
+| 2. Historias de usuario | `docs/02-historias-de-usuario` | Listo |
+| 3. Diseño de interfaces | `docs/03-diseno-de-interfaces` | Listo |
+| 4. Arquitectura | `docs/04-arquitectura` | Listo |
 | 5. Desarrollo | `frontend/`, `backend/` | Pendiente |
 | 6. Pruebas | `docs/05-pruebas` | Pendiente |
 | 7. Demo y envío | `docs/06-demo` | Pendiente |
